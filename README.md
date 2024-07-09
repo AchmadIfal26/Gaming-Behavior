@@ -1,6 +1,5 @@
 ### README.md
 
-```markdown
 # Online Gaming Behavior Analysis
 
 ## Project Overview
@@ -104,7 +103,7 @@ You can install these libraries using pip:
 
 ```sh
 pip install pandas numpy matplotlib seaborn scikit-learn
-```
+
 
 After installing the necessary libraries, you can run the analysis script provided in this repository.
 
